@@ -1,2 +1,2 @@
-# restaurant-page-with-js
-restaurant page but with js
+# restaurant-page-with-js by/Anas Ahmed
+restaurant page but with js 
